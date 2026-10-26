@@ -1,0 +1,8 @@
+config.php
+.env
+*.sql
+*.zip
+*.rar
+vendor/
+asset/gambar/175*
+asset/gambar/176*
